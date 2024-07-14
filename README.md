@@ -85,20 +85,20 @@ You can import rules previously stored in a file on the web.
   
   `bb -r a` will remove all rules stored in baby.conf.
 
-# ?? **TESTED ON**
+# ⚙️ **TESTED ON**
 
-?? Elementary OS
+🟢 Elementary OS
 
-?? Debian
+🟢 Debian
 
-?? Linux Mint
+🟢 Linux Mint
 
-?? MX Linux
+🟢 MX Linux
 
-?? Fedora
+🟢 Fedora
 
-?? AlmaLinux
+🟢 AlmaLinux
 
-?? Zorin OS
+🟢 Zorin OS
 
-?? Endeavour OS
+🟢 Endeavour OS
