@@ -2,7 +2,7 @@
 BB comes as an option to the default "alias" command and it's a simple program to abbreviate long prompts in GNU/Linux terminal.
 You can easily set rules, delete them, list them and update them with a clear list of parameters. It should be functional in any GNU/Linux distribution.
 
-⭐ **FEATURES**
+? **FEATURES**
 
 * Simplify your long commands in terminal
 
@@ -25,9 +25,10 @@ You can easily set rules, delete them, list them and update them with a clear li
 
 Go to release section and download the latest version, in that page you can find the installation instructions for the binary files.
 
+
 :ballot_box_with_check: **COMPILE YOURSELF**
 
-If you preffer to compile yourself the source code you need to download the _main.go_ file and create a file named _baby.conf_, then run the following commands:
+If you preffer to compile yourself the source code you need to download the _main.go_ file and create a file named _etc/bb/bb.conf_, then run the following commands:
 
 `go mod init bb`
 
